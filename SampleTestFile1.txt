@@ -1,3 +1,4 @@
 This is sample  file 1
 
 Today, git switch and git restore are generally considered the clearer, more user-friendly alternatives to the older, all-in-one git checkout command.
+This is Comparison lecture
